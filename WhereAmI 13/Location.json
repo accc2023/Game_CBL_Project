@@ -1,0 +1,352 @@
+[
+    {
+        "name": "United States",
+        "x": 222,
+        "y": 229,
+        "difficulty": "easy",
+        "image": "https://imgur.com/J9sfgld.png"
+    },
+    {
+        "name": "China",
+        "x": 692,
+        "y": 251,
+        "difficulty": "easy",
+        "image": "https://imgur.com/jS7cxhk.png"
+    },
+    {
+        "name": "India",
+        "x": 597,
+        "y": 268,
+        "difficulty": "easy",
+        "image": "https://imgur.com/VGr61R4.png"
+    },
+    {
+        "name": "Brazil",
+        "x": 299,
+        "y": 386,
+        "difficulty": "easy",
+        "image": "https://imgur.com/OQRJ3jc.png"
+    },
+    {
+        "name": "Indonesia",
+        "x": 685,
+        "y": 357,
+        "difficulty": "easy",
+        "image": "https://imgur.com/X9aYYPc.png"
+    },
+    {
+        "name": "Canada",
+        "x": 213,
+        "y": 217,
+        "difficulty": "easy",
+        "image": "https://imgur.com/rch6hF2.png"
+    },
+    {
+        "name": "Netherlands",
+        "x": 420,
+        "y": 185,
+        "difficulty": "easy",
+        "image": "https://imgur.com/2AaXYrH.png"
+    },
+    {
+        "name": "Bangladesh",
+        "x": 622,
+        "y": 277,
+        "difficulty": "easy",
+        "image": "https://imgur.com/sG7XCGU.png"
+    },
+    {
+        "name": "Russia",
+        "x": 509,
+        "y": 171,
+        "difficulty": "easy",
+        "image": "https://imgur.com/UI8V69I.png"
+    },
+    {
+        "name": "Japan",
+        "x": 743,
+        "y": 241,
+        "difficulty": "easy",
+        "image": "https://imgur.com/i815zhZ.png"
+    },
+    {
+        "name": "Mexico",
+        "x": 167,
+        "y": 289,
+        "difficulty": "easy",
+        "image": "https://imgur.com/gFGQA3R.png"
+    },
+    {
+        "name": "Germany",
+        "x": 430,
+        "y": 197,
+        "difficulty": "easy",
+        "image": "https://imgur.com/tRlcbAe.png"
+    },
+    {
+        "name": "United Kingdom",
+        "x": 404,
+        "y": 188,
+        "difficulty": "easy",
+        "image": "https://imgur.com/tQ0HWNX.png"
+    },
+    {
+        "name": "France",
+        "x": 411,
+        "y": 204,
+        "difficulty": "easy",
+        "image": "https://imgur.com/hakNEjz.png"
+    },
+    {
+        "name": "Italy",
+        "x": 436,
+        "y": 225,
+        "difficulty": "easy",
+        "image": "https://imgur.com/EWphsBu.png"
+    },
+    {
+        "name": "Spain",
+        "x": 395,
+        "y": 235,
+        "difficulty": "easy",
+        "image": "https://imgur.com/ykN1UKu.png"
+    },
+    {
+        "name": "South Korea",
+        "x": 714,
+        "y": 238,
+        "difficulty": "easy",
+        "image": "https://imgur.com/sNBfs28.png"
+    },
+    {
+        "name": "Egypt",
+        "x": 479,
+        "y": 262,
+        "difficulty": "easy",
+        "image": "https://imgur.com/gMbfltQ.png"
+    },
+    {
+        "name": "Turkey",
+        "x": 479,
+        "y": 230,
+        "difficulty": "medium",
+        "image": "https://imgur.com/xK55236.png"
+    },
+    {
+        "name": "Philippines",
+        "x": 705,
+        "y": 307,
+        "difficulty": "medium",
+        "image": "https://imgur.com/r5FwYvk.png"
+    },
+    {
+        "name": "Vietnam",
+        "x": 658,
+        "y": 285,
+        "difficulty": "medium",
+        "image": "https://imgur.com/54NZvxN.png"
+    },
+    {
+        "name": "Iran",
+        "x": 529,
+        "y": 243,
+        "difficulty": "medium",
+        "image": "https://imgur.com/HbLus0t.png"
+    },
+    {
+        "name": "Thailand",
+        "x": 648,
+        "y": 299,
+        "difficulty": "medium",
+        "image": "https://imgur.com/Fu6Z7Ru.png"
+    },
+    {
+        "name": "South Africa",
+        "x": 453,
+        "y": 419,
+        "difficulty": "medium",
+        "image": "https://imgur.com/eJf6tEJ.png"
+    },
+    {
+        "name": "Peru",
+        "x": 229,
+        "y": 365,
+        "difficulty": "medium",
+        "image": "https://imgur.com/U5722jT.png"
+    },
+    {
+        "name": "Nigeria",
+        "x": 420,
+        "y": 313,
+        "difficulty": "medium",
+        "image": "https://imgur.com/JIAGKrZ.png"
+    },
+    {
+        "name": "Argentina",
+        "x": 264,
+        "y": 426,
+        "difficulty": "medium",
+        "image": "https://imgur.com/rz0wP72.png"
+    },
+    {
+        "name": "Portugal",
+        "x": 386,
+        "y": 230,
+        "difficulty": "medium",
+        "image": "https://imgur.com/g5CsjkF.png"
+    },
+    {
+        "name": "Greece",
+        "x": 460,
+        "y": 238,
+        "difficulty": "medium",
+        "image": "https://imgur.com/A4uE8Ug.png"
+    },
+    {
+        "name": "Sweden",
+        "x": 445,
+        "y": 155,
+        "difficulty": "medium",
+        "image": "https://imgur.com/zkT5OQD.png"
+    },
+    {
+        "name": "Kenya",
+        "x": 498,
+        "y": 331,
+        "difficulty": "hard",
+        "image": "https://imgur.com/hQgrQfB.png"
+    },
+    {
+        "name": "Israel",
+        "x": 491,
+        "y": 260,
+        "difficulty": "hard",
+        "image": "https://imgur.com/QEHYiOr.png"
+    },
+    {
+        "name": "Lebanon",
+        "x": 491,
+        "y": 250,
+        "difficulty": "hard",
+        "image": "https://imgur.com/SQ32d9r.png"
+    },
+    {
+        "name": "Nepal",
+        "x": 611,
+        "y": 267,
+        "difficulty": "hard",
+        "image": "https://imgur.com/b83TsZc.png"
+    },
+    {
+        "name": "Poland",
+        "x": 455,
+        "y": 186,
+        "difficulty": "hard",
+        "image": "https://imgur.com/pHaYWaO.png"
+    },
+    {
+        "name": "Ukraine",
+        "x": 476,
+        "y": 195,
+        "difficulty": "hard",
+        "image": "https://imgur.com/YAXKO7Q.png"
+    },
+    {
+        "name": "Puerto Rico",
+        "x": 247,
+        "y": 292,
+        "difficulty": "hard",
+        "image": "https://imgur.com/pDgl6gm.png"
+    },
+    {
+        "name": "Latvia",
+        "x": 465,
+        "y": 167,
+        "difficulty": "hard",
+        "image": "https://imgur.com/bGwJZo7.png"
+    },
+    {
+        "name": "Ecuador",
+        "x": 217,
+        "y": 339,
+        "difficulty": "hard",
+        "image": "https://imgur.com/I8FRqtX.png"
+    },
+    {
+        "name": "Norway",
+        "x": 422,
+        "y": 146,
+        "difficulty": "medium",
+        "image": "https://imgur.com/HBL9Q60.png"
+    },
+    {
+        "name": "Singapore",
+        "x": 660,
+        "y": 335,
+        "difficulty": "medium",
+        "image": "https://imgur.com/OsVKrQZ.png"
+    },
+    {
+        "name": "Switzerland",
+        "x": 425,
+        "y": 208,
+        "difficulty": "medium",
+        "image": "https://imgur.com/61sTP73.png"
+    },
+    {
+        "name": "Austria",
+        "x": 440,
+        "y": 196,
+        "difficulty": "hard",
+        "image": "https://imgur.com/18Csdeg.png"
+    },
+    {
+        "name": "Hungary",
+        "x": 453,
+        "y": 201,
+        "difficulty": "hard",
+        "image": "https://imgur.com/m0WDoOT.png"
+    },
+    {
+        "name": "United Arab Emirates",
+        "x": 537,
+        "y": 279,
+        "difficulty": "medium",
+        "image": "https://imgur.com/NfIv1Eo.png"
+    },
+    {
+        "name": "Qatar",
+        "x": 530,
+        "y": 270,
+        "difficulty": "medium",
+        "image": "https://imgur.com/vA0z6HW.png"
+    },
+    {
+        "name": "Panama",
+        "x": 214,
+        "y": 314,
+        "difficulty": "medium",
+        "image": "https://imgur.com/KBNnzvb.png"
+    },
+    {
+        "name": "Luxembourg",
+        "x": 418,
+        "y": 195,
+        "difficulty": "hard",
+        "image": "https://imgur.com/buNhVKA.png"
+    },
+    {
+        "name": "Romania",
+        "x": 464,
+        "y": 210,
+        "difficulty": "hard",
+        "image": "https://imgur.com/2WP4D32.png"
+    },
+    {
+        "name": "Bahrain",
+        "x": 528,
+        "y": 268,
+        "difficulty": "hard",
+        "image": "https://imgur.com/PU4ql04.png"
+    }
+]
